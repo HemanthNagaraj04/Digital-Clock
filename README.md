@@ -10,3 +10,9 @@ Features:
 Requirements:
  Python 3.x
  Tkinter (comes pre-installed with Python)
+
+There are 2 files namely MainCode and CommentedCode
+
+MainCode is the ready to execute code wihtout any comments present
+
+CommentedCode is the code in which comments are present which help you to customize the code accordingly
